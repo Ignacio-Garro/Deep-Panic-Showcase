@@ -1,4 +1,4 @@
-# Pressure Inc.
+# DEEP PANIC.
 
 > A co-op submarine horror game built in Unity HDRP. Crew a deep-sea submarine with friends, manage failing systems, and survive what's lurking in the dark.
 
@@ -50,7 +50,7 @@ The interesting part. As lead developer I designed and built the core engineerin
 - **Steam Audio integration** for true 3D spatialized sound, including elevation cues — critical for locating threats and crewmates by ear in the dark
 
 ### Multiplayer
-- **Online co-op netcode** [Netcode for GameObjects / Fishnet — confirm] synchronizing crew, ship state, and the submarine itself
+- **Online co-op netcode** Netcode for GameObjects synchronizing crew, ship state, and the submarine itself
 - **Co-op submarine physics** — shared-control movement with tilt correction and collision-aware rotation so multiple players crewing one vessel feels stable
 
 ### Gameplay Systems
