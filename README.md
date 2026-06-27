@@ -18,7 +18,7 @@
 **Players:** 1–4 online co-op
 **Engine:** Unity (HDRP)
 
-🔗 **[Wishlist on Steam](https://store.steampowered.com/app/3473920/Deep_Panic/)** · [YouTube]([#](https://www.youtube.com/@DeadWatersDev))
+🔗 **[Wishlist on Steam](https://store.steampowered.com/app/3473920/Deep_Panic/)** · [YouTube](https://www.youtube.com/@DeadWatersDev)
 
 ---
 
