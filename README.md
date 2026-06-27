@@ -2,19 +2,11 @@
 
 > A co-op submarine horror game built in Unity HDRP. Crew a deep-sea submarine with friends, manage failing systems, and survive what's lurking in the dark.
 
-[![Steam](https://img.shields.io/badge/Steam-Wishlist-1b2838?logo=steam)]([STEAM_LINK_HERE](https://store.steampowered.com/app/3473920/Deep_Panic/))
+[![Steam](https://img.shields.io/badge/Steam-Wishlist-1b2838?logo=steam)](https://store.steampowered.com/app/3473920/Deep_Panic/)
 [![Status](https://img.shields.io/badge/status-in%20development-orange)]()
 [![Engine](https://img.shields.io/badge/Unity-HDRP-black?logo=unity)]()
 
 > ⚠️ **Note:** This is a public showcase for a commercial game in active development. The source code is private. This repo documents the project, its engineering, and my role on it.
-
----
-
-## 🎬 Trailer
-
-[Embed trailer thumbnail linking to YouTube, or drop a gameplay GIF here. This is the single most important element — lead with motion.]
-
-[![Watch the trailer](TRAILER_THUMBNAIL.png)](TRAILER_URL)
 
 ---
 
@@ -26,16 +18,17 @@
 **Players:** 1–4 online co-op
 **Engine:** Unity (HDRP)
 
-🔗 **[Wishlist on Steam](STEAM_LINK_HERE)** · [TikTok](#) · [Instagram](#) · [YouTube](#)
+🔗 **[Wishlist on Steam](https://store.steampowered.com/app/3473920/Deep_Panic/)** · [YouTube]([#](https://www.youtube.com/@DeadWatersDev))
 
 ---
 
 ## 📸 Screenshots
 
-| | |
-|---|---|
-| ![shot1](screenshots/1.png) | ![shot2](screenshots/2.png) |
-| ![shot3](screenshots/3.png) | ![shot4](screenshots/4.png) |
+<img width="1840" height="860" alt="capsule art2" src="https://github.com/user-attachments/assets/218b81bc-ff81-435b-b0a8-43dc49c1767d" />
+<img width="883" height="883" alt="dead" src="https://github.com/user-attachments/assets/95a4a75f-bd0d-4acb-9959-8309f1b63e38" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-01-26 235048" src="https://github.com/user-attachments/assets/752bc6ea-5f73-42e4-90cf-9cc4fe28af16" />
+<img width="773" height="773" alt="minesroom" src="https://github.com/user-attachments/assets/e4bbafb3-f694-4d6b-a3cb-22bf6486bcd2" />
+
 
 ---
 
@@ -69,7 +62,7 @@ The interesting part. As lead developer I designed and built the core engineerin
 
 ## 👤 My Role — Lead Developer
 
-I'm the lead developer and co-founder, responsible for the technical architecture and the majority of the engineering: rendering, performance-critical simulation, multiplayer, audio integration, and gameplay systems. [Add one line on your teammate's focus — design/art/production.]
+I'm the lead developer and co-founder, responsible for the technical architecture and the majority of the engineering: rendering, performance-critical simulation, multiplayer, audio integration, and gameplay systems.
 
 Roughly **1.5 years** of development to date.
 
@@ -93,11 +86,3 @@ Roughly **1.5 years** of development to date.
 - ✅ Core systems: rendering, co-op netcode, submarine physics, AI Director
 - 🔜 **Steam Next Fest** — October 2026
 - 🎯 **Early Access launch** — November 17, 2026
-
-**[⭐ Wishlist on Steam to follow development](STEAM_LINK_HERE)**
-
----
-
-## Contact
-
-[Your name] — [LinkedIn] · [email] · [portfolio]
