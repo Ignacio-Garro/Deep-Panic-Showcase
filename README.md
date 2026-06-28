@@ -12,7 +12,7 @@
 
 ## About
 
-**Pressure Inc.** is a 1–4 player co-op horror game where you and your crew operate a submarine in the crushing dark of the deep sea. Power, oxygen, navigation, and sensors all have to be managed by hand — and something outside the hull is paying attention. Built by a two-person indie studio, targeting **Steam Early Access (Nov 2026)** with an appearance at **Steam Next Fest (Oct 2026)**.
+**DEEP PANIC** is a 1–4 player co-op horror game where you and your crew operate a submarine in the crushing dark of the deep sea. Power, oxygen, navigation, and sensors all have to be managed by hand — and something outside the hull is paying attention. Built by a two-person indie studio, targeting **Steam Early Access (Nov 2026)** with an appearance at **Steam Next Fest (Oct 2026)**.
 
 **Genre:** Co-op Horror · Submarine Sim
 **Players:** 1–4 online co-op
